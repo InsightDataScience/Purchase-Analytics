@@ -78,7 +78,7 @@ product_id,product_name,aisle_id,department_id
 ```
 where
 
-* `product_id`: unique identifier of the order
+* `product_id`: unique identifier of the product
 * `product_name`: name of the product
 * `aisle_id`: identifier of aisle in which product is located
 * `department_id`: identifier of department
